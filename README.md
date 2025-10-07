@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash2500" target="blank"><img src="https://img.shields.io/twitter/follow/akash2500?logo=twitter&style=for-the-badge" alt="akash2500" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ashrafulhaque.info](https://ashrafulhaque.info)
+- 👨‍💻 All of my projects are available at [https://ashrafulhaque.com](https://ashrafulhaque.com)
 
 - 📝 I regularly write articles on [https://ashrafulhaque.info/blog](https://ashrafulhaque.info/blog)
 
